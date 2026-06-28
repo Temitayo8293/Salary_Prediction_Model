@@ -1,5 +1,4 @@
-# Salary_Prediction_Model (XGboost - R2 of 93%)
-
+# Salary_Prediction_Model 
 # Methodology
 
 - A structured machine learning approach was adopted to predict employee salary. The dataset was first explored using exploratory data analysis (EDA) to understand feature distributions, relationships, and potential data quality issues. Missing values in selected numerical variables were handled using appropriate imputation techniques to preserve dataset size.
