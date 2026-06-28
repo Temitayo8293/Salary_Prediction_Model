@@ -1,4 +1,4 @@
-# Salary_Prediction_Model
+# Salary_Prediction_Model (XGboost - R2 of 93%)
 This is a salary predictor regression model
 
 - The model generally informed us that Salary is a function of department (role type), education, performance, and experience.
